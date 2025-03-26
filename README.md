@@ -57,15 +57,6 @@ The primary objective is to **predict whether a customer will default on their c
 
 ---
 
-## 👨‍💻 Team Members  
-- **Martin Aguirre**  
-- **Vishruth Acharya**  
-- **Yuvaraja Reddy Ambati**  
-- **Varun Namala**  
-- **Prasanth Chowdary Yanamandala**  
-
----
-
 ## 📜 License  
 This project is for academic purposes only.  
 
